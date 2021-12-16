@@ -1,0 +1,28 @@
+ footer {
+  position: absolute;
+  width: 1920px;
+  height: 232px;
+  left: 0px;
+  top: 2370px;
+      
+  }
+
+.textoFooter{
+   position: absolute;
+   width: 325px;
+   height: 102px;
+   font-family: Signika Negative;
+   font-style: normal;
+   font-weight: 600;
+   font-size: 18px;
+   line-height: 22px;
+   text-align: center;
+   color: #ffffff;
+   left: 750px;
+   top: 70px;
+  }
+
+  .imgFooter{
+    width: 1920px;
+    height: 232px;
+  }

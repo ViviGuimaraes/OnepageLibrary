@@ -1,0 +1,157 @@
+main{
+    display: flex;
+    width: 1920px;
+    height: 2600px;
+}
+
+.imgFundo{
+    width: 1920px;
+    height: 700px;
+    left: 0px;
+    top: 213px;
+}
+
+.titulo{
+    position: absolute;
+    width: 557px;
+    height: 45px;
+    left: 700px;
+    top: 306px;
+    font-family: Signika Negative;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #FFFFFF;
+}
+
+.subTitulo{
+    position: absolute;
+    width: 800px;
+    height: 84px;
+    left: 650px;
+    top: 355px;
+    font-family: Signika Negative;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 74px;
+    color: #FFFFFF;
+    
+}
+
+.segunda{
+    position: absolute;
+    width: 1920px;
+    height: 106px;
+    left: 0px;
+    top: 700px;
+    background-color: #FFFFFF;
+    
+}
+
+.segunda >h1{
+    position: absolute;
+    width: 149px;
+    height: 41px;
+    left: 820px;
+    top: 25px;
+    font-family: Signika Negative;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+}
+
+.terceira{
+    position: absolute;
+    width: 1920px;
+    height: 661px;
+    left: 0px;
+    top: 806px;
+    background: rgba(185, 185, 185, 0.52);
+}
+
+.quarta{
+    position: absolute;
+    width: 1920px;
+    height: 509px;
+    left: 0px;
+    top: 1400px;
+    background-color: #FFFFFF;
+}
+.quarta >h1{
+    position: absolute;
+    width: 149px;
+    height: 41px;
+    left: 450px;
+    top: 100px;
+    font-family: Signika Negative;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 44px;
+    
+    color: #000000;
+}
+
+.quarta >ul{
+    position: absolute;
+    width: 621px;
+    height: 58px;
+    left: 250px;
+    top: 200px;
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    justify-content: space-around;
+}
+.quarta >img{
+    position: absolute;
+    width: 705px;
+    height: 509px;
+    left: 1200px;
+    top: 0px;
+    
+}
+
+.quinta{
+    position: absolute;
+    width: 1920px;
+    height: 466px;
+    left: 0px;
+    top: 1910px;
+    background: rgba(175, 175, 175, 0.5);
+}
+
+.funcionamento{
+    position: absolute;
+    width: 599px;
+    height: 203px;
+    left: 200px;
+    top: 150px;
+    font-family: Signika Negative;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #0F0A4A;
+
+}
+.contato{
+    position: absolute;
+    width: 599px;
+    height: 203px;
+    left: 1000px;
+    top: 150px;
+    font-family: Signika Negative;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #0F0A4A;
+    
+}

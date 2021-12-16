@@ -1,0 +1,56 @@
+header {
+    position: absolute;
+    width: 1920px;
+    height: 200px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+.logo{
+    position: absolute;
+    width: 285px;
+    height: 69px;
+    left: 0px;
+    top: 20px;
+}
+
+.informacoes{
+    position: absolute;
+    width: 474px;
+    height: 32px;
+    left: 1400px;
+    top: 29px;
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+h1{
+position: absolute;
+width: 203px;
+height: 49px;
+left: 760px;
+top: 98px;
+
+font-family: Noto Sans Kannada UI;
+font-style: normal;
+font-weight: 300;
+font-size: 50px;
+line-height: 49px;
+text-align: right;
+color: #000000;
+}
+
+.atalhos{
+    position: absolute;
+    width: 375px;
+    height: 25px;
+    left: 747px;
+    top: 168px;
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
