@@ -15,8 +15,8 @@ main{
     position: absolute;
     width: 557px;
     height: 45px;
-    left: 700px;
-    top: 350px;
+    left: 650px;
+    top: 390px;
     font-family: Signika Negative;
     font-style: normal;
     font-weight: bold;
@@ -64,6 +64,12 @@ main{
     color: #000000;
 }
 
+.segunda >ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
 .terceira{
     position: absolute;
     width: 1920px;
@@ -73,6 +79,11 @@ main{
     background: rgba(185, 185, 185, 0.52);
 }
 
+.terceira >div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
 .quarta{
     position: absolute;
     width: 1920px;
